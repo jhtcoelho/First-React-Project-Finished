@@ -1,0 +1,16 @@
+:root{
+    --font-primary: "Montserrat", sans-serif;
+    --font-secondary: "Inter", sans-serif;
+    --color-lightyellow: #eadece;
+
+    --color-white: #ffffff;
+    --color-white50: rgba(255,255,255,.5);
+    --color-black: #000000;
+
+    --color-red: #e3512a;
+    --color-green: #2a645c;
+}
+
+body{
+    background: var(--color-lightyellow);
+}
